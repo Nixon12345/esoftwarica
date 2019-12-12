@@ -1,0 +1,4 @@
+#Thu Dec 12 16:31:14 NPT 2019
+base.0=C\:\\Users\\Nixon\\Downloads\\esoftwarica160352-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
